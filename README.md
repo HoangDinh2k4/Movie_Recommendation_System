@@ -1,0 +1,3 @@
+This is a Movie Recommendation System integrated with a chatbot that helps users discover the movies they want to watch.
+The chatbot suggests the top 5 high-quality movies based on the user’s query and provides detailed information such as cast, director, ratings, reviews,...
+Additionally, it allows users to watch the official trailer of each recommended movie for a better viewing experience.
